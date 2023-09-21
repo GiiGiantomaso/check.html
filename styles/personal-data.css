@@ -1,0 +1,13 @@
+.personal-data{
+background-image: url('https://img.freepik.com/premium-photo/abstract-colorful-gradient-background-illustration-your-design_743855-15024.jpg?w=826');
+background-size: contain ;
+background-repeat: repeat-y ;
+}
+.personal-data h1{
+    
+
+
+    font-size: 20;
+    color: blue;
+    border: width 10%;
+}
